@@ -1,0 +1,51 @@
+{
+  "id": "2760958",
+  "name": "panda",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "笔记",
+  "glyphs": [
+    {
+      "icon_id": "19899652",
+      "name": "x",
+      "font_class": "x",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "6940844",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "8471207",
+      "name": "记账",
+      "font_class": "jizhang",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "10715414",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "15838431",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
